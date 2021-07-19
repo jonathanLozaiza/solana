@@ -1,3 +1,3 @@
 # solana
-# yarn i
-# yarn start
+yarn i
+yarn start
